@@ -12,6 +12,7 @@
 		1F7D40F41C04B1F10017785C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F7D40F21C04B1F10017785C /* Main.storyboard */; };
 		1F7D40F61C04B1F10017785C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F7D40F51C04B1F10017785C /* Assets.xcassets */; };
 		1F7D40F91C04B1F10017785C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F7D40F71C04B1F10017785C /* LaunchScreen.storyboard */; };
+		1FB1D7AE1C175660006385EA /* AAA.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FB1D7AD1C175660006385EA /* AAA.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		1F7D40F51C04B1F10017785C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1F7D40F81C04B1F10017785C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1F7D40FA1C04B1F10017785C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1FB1D7AD1C175660006385EA /* AAA.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AAA.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,7 @@
 		1F7D40E21C04B1F10017785C = {
 			isa = PBXGroup;
 			children = (
+				1FB1D7AD1C175660006385EA /* AAA.swift */,
 				1F7D40ED1C04B1F10017785C /* TestGit */,
 				1F7D40EC1C04B1F10017785C /* Products */,
 			);
@@ -135,6 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1F7D40F11C04B1F10017785C /* ViewController.swift in Sources */,
+				1FB1D7AE1C175660006385EA /* AAA.swift in Sources */,
 				1F7D40EF1C04B1F10017785C /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -285,6 +289,7 @@
 				1F7D40FF1C04B1F10017785C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

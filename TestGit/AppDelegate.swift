@@ -9,7 +9,7 @@
 import UIKit  //Master//
 
 
-//Some ugly code
+//Nice
 
 
 @UIApplicationMain

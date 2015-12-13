@@ -8,10 +8,8 @@
 
 import UIKit  //Master//
 
-// Imp Changes // // //
 
-//Committed 2
-
+// wow.. Detached head
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {

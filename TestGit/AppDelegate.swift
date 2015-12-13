@@ -8,6 +8,9 @@
 
 import UIKit  //Master//
 
+
+//Some ugly code
+
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 

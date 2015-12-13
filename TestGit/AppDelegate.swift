@@ -8,9 +8,6 @@
 
 import UIKit  //Master//
 
-
-// wow.. Detached head
-
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
